@@ -1,0 +1,8 @@
+﻿用户输入add <filename>命令
+	if (<filename>是普通文件) {
+		用<filename>文件替换暂存区中的<filename>文件
+	}
+	if (<filename>是目录文件) {
+		递归地用<filename>下所有文件替换暂存区中对应的文件
+	}
+}

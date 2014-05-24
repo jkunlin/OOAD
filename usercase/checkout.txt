@@ -1,0 +1,32 @@
+checkout命令：切换分支并更改当前工作目录内容，或仅更改当前工作目录内容。该命令不影响暂存区
+
+用户输入checkout <filepath|commit_id|tag|branch>
+		if（输入的是commit_id）{
+			if (当前暂存区是干净的)
+				跳转到临时分支，该分支的当前版本（由HEAD所指定）为commit_id所对应的版本
+			else {
+				提示用户先处理暂存区内容，或输入强制checkout命令
+				用况结束
+			}
+		}
+		if（输入的是tag）{
+			if (当前暂存区是干净的)
+				跳转到临时分支，该分支的当前版本（由HEAD所指定）为tag所对应的版本
+			else {
+				提示用户先处理暂存区内容，或输入强制checkout命令
+				用况结束
+			}
+		}
+		if（输入的是filepath）{
+			if(<filepath>是普通文件){
+				将<filepath>从暂存区移除
+				<filepath>恢复到当前版本的原始状态
+			}
+			if（<filepath>是目录文件）{
+				递归地将<filepath>下的所有文件从暂存区移除
+				并将其恢复到当前版本的所有状态
+				
+			}
+		}
+		if（输入的是branch）{
+			跳转到branch分支

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="12.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <type>com.umlet.element.custom.State</type>
+    <coordinates>
+      <x>130</x>
+      <y>210</y>
+      <w>90</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>clean</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>190</x>
+      <y>180</y>
+      <w>230</w>
+      <h>94</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+add &lt;filename&gt; 
+or remove &lt;filename&gt; </panel_attributes>
+    <additional_attributes>210;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.State</type>
+    <coordinates>
+      <x>400</x>
+      <y>210</y>
+      <w>90</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>unclean</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>290</x>
+      <y>110</y>
+      <w>298</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+add &lt;filename&gt; or remove &lt;filename&gt; </panel_attributes>
+    <additional_attributes>130;100;130;50;180;50;180;100</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.State</type>
+    <coordinates>
+      <x>590</x>
+      <y>210</y>
+      <w>90</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>commit</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>460</x>
+      <y>180</y>
+      <w>150</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+commit</panel_attributes>
+    <additional_attributes>130;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>140</x>
+      <y>220</y>
+      <w>330</w>
+      <h>124</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+reset &lt;commit_id|tag&gt; 
+or reset all thoes added and removed</panel_attributes>
+    <additional_attributes>30;30;30;80;310;80;310;30</additional_attributes>
+  </element>
+</diagram>
