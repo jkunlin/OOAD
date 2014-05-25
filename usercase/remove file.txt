@@ -1,0 +1,12 @@
+remove filepath命令：将文件从暂存区与工作目录中移除，注意区别reset命令，reset是将暂存区中相应的文件恢复为原来的样子
+
+用户输入reset <filepath|commit_id|tag>
+		if(输入的filepath) {
+			if(如果<filepath>是普通文件) {
+				将<filepath>文件从暂存区与工作目录中移除
+			}
+			if(如果<filepath>是目录文件){
+				递归地将<filepath>下的所有文件从暂存区与工作目录中移除
+			}
+		}
+}
