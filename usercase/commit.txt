@@ -20,5 +20,5 @@ if(输入commit命令) {
 		}
 		给暂存区生成快照作为一次新版本；
 		记录并输出当前commit信息，包括commit_id, author, data, description 
-		设置当前分支的当前提交为该新版本，即，将HEAD设为该新版本 
+		将该版本设置为当前分支的最新版本
 }
