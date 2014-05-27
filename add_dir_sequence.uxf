@@ -288,7 +288,7 @@ set content to content of &lt;filepath&gt; </panel_attributes>
     </coordinates>
     <panel_attributes>lt=&lt;
 recursively create File for each file of &lt;filepath&gt; 
-set  file_list of Tree to these Files.</panel_attributes>
+new Include object for each File</panel_attributes>
     <additional_attributes>80;90;180;90;180;30;80;30</additional_attributes>
   </element>
   <element>

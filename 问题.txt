@@ -2,3 +2,7 @@
 	改用聚合
 
 辅助图无法描述add <filename>的递归性，使用文字描述
+
+ref工厂模式
+
+commit自身m到n
