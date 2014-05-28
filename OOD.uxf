@@ -5,7 +5,7 @@
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>928</x>
-      <y>520</y>
+      <y>568</y>
       <w>96</w>
       <h>88</h>
     </coordinates>
@@ -19,7 +19,7 @@ modify_time
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>768</x>
-      <y>520</y>
+      <y>568</y>
       <w>136</w>
       <h>88</h>
     </coordinates>
@@ -36,7 +36,7 @@ remove_file(filepath)</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>504</x>
-      <y>432</y>
+      <y>480</y>
       <w>184</w>
       <h>200</h>
     </coordinates>
@@ -60,7 +60,7 @@ apply_patch(patch_file)</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>0</x>
-      <y>520</y>
+      <y>568</y>
       <w>224</w>
       <h>96</h>
     </coordinates>
@@ -78,7 +78,7 @@ apply_patch(patch_file)</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>272</x>
-      <y>400</y>
+      <y>448</y>
       <w>144</w>
       <h>80</h>
     </coordinates>
@@ -94,7 +94,7 @@ set_commit_id(commit_id)</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>272</x>
-      <y>504</y>
+      <y>552</y>
       <w>144</w>
       <h>64</h>
     </coordinates>
@@ -111,7 +111,7 @@ set_commit_id(commit_id)
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>272</x>
-      <y>600</y>
+      <y>648</y>
       <w>144</w>
       <h>72</h>
     </coordinates>
@@ -127,7 +127,7 @@ set_commit_id(commit_id)</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>848</x>
-      <y>440</y>
+      <y>488</y>
       <w>80</w>
       <h>64</h>
     </coordinates>
@@ -142,7 +142,7 @@ file_type</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>784</x>
-      <y>480</y>
+      <y>528</y>
       <w>112</w>
       <h>56</h>
     </coordinates>
@@ -153,7 +153,7 @@ file_type</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>872</x>
-      <y>480</y>
+      <y>528</y>
       <w>112</w>
       <h>56</h>
     </coordinates>
@@ -164,7 +164,7 @@ file_type</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>392</x>
-      <y>488</y>
+      <y>536</y>
       <w>128</w>
       <h>56</h>
     </coordinates>
@@ -178,7 +178,7 @@ referent to&gt;</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>664</x>
-      <y>512</y>
+      <y>560</y>
       <w>120</w>
       <h>40</h>
     </coordinates>
@@ -192,7 +192,7 @@ m2=1
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>136</x>
-      <y>440</y>
+      <y>488</y>
       <w>40</w>
       <h>96</h>
     </coordinates>
@@ -205,7 +205,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>32</x>
-      <y>312</y>
+      <y>360</y>
       <w>224</w>
       <h>152</h>
     </coordinates>
@@ -228,7 +228,7 @@ rebase()
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>152</x>
-      <y>248</y>
+      <y>296</y>
       <w>40</w>
       <h>80</h>
     </coordinates>
@@ -241,7 +241,7 @@ m2= *</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>200</x>
-      <y>448</y>
+      <y>496</y>
       <w>88</w>
       <h>96</h>
     </coordinates>
@@ -254,7 +254,7 @@ m2=*</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>200</x>
-      <y>528</y>
+      <y>576</y>
       <w>88</w>
       <h>40</h>
     </coordinates>
@@ -267,7 +267,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>200</x>
-      <y>544</y>
+      <y>592</y>
       <w>88</w>
       <h>80</h>
     </coordinates>
@@ -280,7 +280,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>392</x>
-      <y>400</y>
+      <y>448</y>
       <w>128</w>
       <h>56</h>
     </coordinates>
@@ -294,7 +294,7 @@ referent to&gt;</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>392</x>
-      <y>576</y>
+      <y>624</y>
       <w>128</w>
       <h>56</h>
     </coordinates>
@@ -308,7 +308,7 @@ referent to&gt;</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>120</x>
-      <y>200</y>
+      <y>248</y>
       <w>120</w>
       <h>72</h>
     </coordinates>
@@ -324,7 +324,7 @@ create_repository</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>824</x>
-      <y>0</y>
+      <y>48</y>
       <w>200</w>
       <h>224</h>
     </coordinates>
@@ -351,7 +351,7 @@ create_repository</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>272</x>
-      <y>72</y>
+      <y>120</y>
       <w>240</w>
       <h>176</h>
     </coordinates>
@@ -376,7 +376,7 @@ create_repository</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>576</x>
-      <y>344</y>
+      <y>392</y>
       <w>80</w>
       <h>104</h>
     </coordinates>
@@ -389,7 +389,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>928</x>
-      <y>656</y>
+      <y>704</y>
       <w>96</w>
       <h>48</h>
     </coordinates>
@@ -403,7 +403,7 @@ content</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>952</x>
-      <y>584</y>
+      <y>632</y>
       <w>40</w>
       <h>88</h>
     </coordinates>
@@ -416,7 +416,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>1080</x>
-      <y>232</y>
+      <y>280</y>
       <w>136</w>
       <h>72</h>
     </coordinates>
@@ -431,7 +431,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>936</x>
-      <y>344</y>
+      <y>392</y>
       <w>152</w>
       <h>56</h>
     </coordinates>
@@ -446,7 +446,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>640</x>
-      <y>264</y>
+      <y>312</y>
       <w>88</w>
       <h>184</h>
     </coordinates>
@@ -459,7 +459,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>1000</x>
-      <y>280</y>
+      <y>328</y>
       <w>184</w>
       <h>416</h>
     </coordinates>
@@ -470,7 +470,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>1000</x>
-      <y>120</y>
+      <y>168</y>
       <w>192</w>
       <h>128</h>
     </coordinates>
@@ -482,7 +482,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>944</x>
-      <y>200</y>
+      <y>248</y>
       <w>88</w>
       <h>160</h>
     </coordinates>
@@ -494,7 +494,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>560</x>
-      <y>128</y>
+      <y>176</y>
       <w>192</w>
       <h>56</h>
     </coordinates>
@@ -509,7 +509,7 @@ generate_Commit_SHA1(Commit)</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>728</x>
-      <y>128</y>
+      <y>176</y>
       <w>112</w>
       <h>56</h>
     </coordinates>
@@ -521,11 +521,11 @@ generate_Commit_SHA1(Commit)</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>296</x>
-      <y>296</y>
+      <y>344</y>
       <w>144</w>
       <h>64</h>
     </coordinates>
-    <panel_attributes>Persistent_ref_object
+    <panel_attributes>Ref_persistent_object
 --
 --
 +store()
@@ -537,7 +537,7 @@ generate_Commit_SHA1(Commit)</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>288</x>
-      <y>336</y>
+      <y>384</y>
       <w>56</w>
       <h>80</h>
     </coordinates>
@@ -551,7 +551,7 @@ m2=
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>312</x>
-      <y>336</y>
+      <y>384</y>
       <w>72</w>
       <h>184</h>
     </coordinates>
@@ -564,7 +564,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>352</x>
-      <y>336</y>
+      <y>384</y>
       <w>80</w>
       <h>280</h>
     </coordinates>
@@ -577,7 +577,7 @@ m2= 1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>320</x>
-      <y>224</y>
+      <y>272</y>
       <w>88</w>
       <h>88</h>
     </coordinates>
@@ -589,19 +589,19 @@ m2= 1</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>504</x>
-      <y>352</y>
+      <y>400</y>
       <w>96</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>&lt;&lt;reuse&gt;&gt;
-List&lt;commit_id&gt;</panel_attributes>
+List&lt;Commit&gt;</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <type>com.umlet.element.Note</type>
     <coordinates>
       <x>512</x>
-      <y>264</y>
+      <y>312</y>
       <w>112</w>
       <h>56</h>
     </coordinates>
@@ -613,7 +613,7 @@ List&lt;commit_id&gt;</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>544</x>
-      <y>296</y>
+      <y>344</y>
       <w>40</w>
       <h>72</h>
     </coordinates>
@@ -624,7 +624,7 @@ List&lt;commit_id&gt;</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>712</x>
-      <y>400</y>
+      <y>448</y>
       <w>120</w>
       <h>40</h>
     </coordinates>
@@ -636,7 +636,7 @@ List&lt;File&gt;</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>768</x>
-      <y>416</y>
+      <y>464</y>
       <w>40</w>
       <h>120</h>
     </coordinates>
@@ -649,7 +649,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>808</x>
-      <y>384</y>
+      <y>432</y>
       <w>80</w>
       <h>72</h>
     </coordinates>
@@ -662,7 +662,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Note</type>
     <coordinates>
       <x>752</x>
-      <y>328</y>
+      <y>376</y>
       <w>112</w>
       <h>56</h>
     </coordinates>
@@ -674,7 +674,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>736</x>
-      <y>360</y>
+      <y>408</y>
       <w>96</w>
       <h>56</h>
     </coordinates>
@@ -685,7 +685,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>712</x>
-      <y>280</y>
+      <y>328</y>
       <w>136</w>
       <h>24</h>
     </coordinates>
@@ -696,7 +696,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>824</x>
-      <y>280</y>
+      <y>328</y>
       <w>128</w>
       <h>96</h>
     </coordinates>
@@ -709,7 +709,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>824</x>
-      <y>264</y>
+      <y>312</y>
       <w>272</w>
       <h>40</h>
     </coordinates>
@@ -722,7 +722,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>752</x>
-      <y>200</y>
+      <y>248</y>
       <w>112</w>
       <h>96</h>
     </coordinates>
@@ -734,7 +734,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>952</x>
-      <y>376</y>
+      <y>424</y>
       <w>40</w>
       <h>160</h>
     </coordinates>
@@ -747,7 +747,7 @@ m2=  1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>520</x>
-      <y>368</y>
+      <y>416</y>
       <w>56</w>
       <h>80</h>
     </coordinates>
@@ -761,7 +761,7 @@ m2=
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>672</x>
-      <y>280</y>
+      <y>328</y>
       <w>112</w>
       <h>256</h>
     </coordinates>
@@ -774,7 +774,7 @@ m2=1</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>544</y>
+      <y>592</y>
       <w>54</w>
       <h>72</h>
     </coordinates>
